@@ -1,3 +1,0 @@
-1-5:cardborad
-6-10:glass
-11-15:trash
