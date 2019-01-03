@@ -11,4 +11,4 @@
 
 测试结果示例：
 
-![github](https://github.com/MrJoeyM/trash-classification/blob/master/%E6%B5%8B%E8%AF%95/%E6%B5%8B%E8%AF%95%E7%BB%93%E6%9E%9C%E7%A4%BA%E4%BE%8B/cardboard_test_result1.png "github")  
+![github](https://github.com/cchangcs/trash-classification/blob/master/cardboard_test_result1.png "github")  
