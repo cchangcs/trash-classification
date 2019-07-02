@@ -7,8 +7,6 @@
 
 三、 predict.py用于预测垃圾的类别，首先运行predict.py，然后输入需要预测的文件路径，即可得到结果。
 
-（数据下载地址：https://www.kaggle.com/asdasdasasdas/datasets ）
-
 测试结果示例：
 
 ![github](https://github.com/cchangcs/trash-classification/blob/master/cardboard_test_result1.png "github")  
