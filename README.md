@@ -10,3 +10,5 @@
 测试结果示例：
 
 ![github](https://github.com/cchangcs/trash-classification/blob/master/cardboard_test_result1.png "github")  
+
+# 需要训练集的大佬：可以发送邮件到cchang#whu.edu.cn(#号换成@)，我会回复数据集
