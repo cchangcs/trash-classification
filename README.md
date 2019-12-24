@@ -7,6 +7,8 @@
 
 三、 predict.py用于预测垃圾的类别，首先运行predict.py，然后输入需要预测的文件路径，即可得到结果。
 
+四、双创大赛.zip 中和外部文件的区别就是多了些比赛文档，希望不要再问我要密码了。
+
 测试结果示例：
 
 ![github](https://github.com/cchangcs/trash-classification/blob/master/cardboard_test_result1.png "github")  
